@@ -1,0 +1,15 @@
+# Private research records: never publish or include in release bundles.
+/RESEARCH_LOG.md
+/PROJECT_STATUS.md
+/HANDOFF.md
+/Memory is Access Research Plan.md
+/QIP2027_Manuscript.pdf
+
+# Local execution artifacts and Python build/cache files.
+/artifacts/
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
